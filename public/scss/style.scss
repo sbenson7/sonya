@@ -7,7 +7,7 @@ $font-secondary: 'Josefin Sans',Arial, sans-serif;
 $white: #fff;
 $black: #000;
 $darken: #4a5562;
-$primary: #f62a66;
+$primary: #6fa887;
 
 html {
 }
@@ -114,6 +114,7 @@ strong{
 		padding: 0!important;
 		visibility: hidden;
 		opacity: 0;
+		color: #6fa887;
 		@include transition(.3s);
 		i {
 			top: 18px!important;
